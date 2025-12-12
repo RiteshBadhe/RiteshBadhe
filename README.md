@@ -1,7 +1,7 @@
-![logo](https://github.com/RiteshBadhe/RiteshBadhe/blob/main/soft_dev_profile_banner.jpg)
+![logo](https://github.com/RiteshBadhe/RiteshBadhe/blob/main/edff9344-027f-483a-bda9-833d69f0c4be-cover.png)
 <h1 align="center">Hi 👋, I'm Ritesh Badhe</h1>
 <h3 align="center">Passionate CS student learning full-stack development and building real-world projects.</h3>
-<img align="right" alt="coding" width = "400" src="https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+<img align="right" alt="coding" width = "400" src="https://github.com/RiteshBadhe/RiteshBadhe/blob/main/Popper.psd.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshbadhe&label=Profile%20views&color=0e75b6&style=flat" alt="riteshbadhe" /> </p>
 
 - 🌱 I’m currently learning **Backend developements (Spring Boot), Frontend (React), DSA )**
